@@ -3,7 +3,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: swap;
-	src: url(https://jbenedict.com/medea/assets/font/azonix.woff) format('woff');
+	src: url(https://jbenedict.com/playpitch/medea/assets/font/azonix.woff) format('woff');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -12,7 +12,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: swap;
-	src: url(https://jbenedict.com/medea/assets/font/valorax.woff) format('woff');
+	src: url(https://jbenedict.com/playpitch/medea/assets/font/valorax.woff) format('woff');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -21,7 +21,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: swap;
-	src: url(https://jbenedict.com/medea/assets/font/limelight.woff) format('woff');
+	src: url(https://jbenedict.com/playpitch/medea/assets/font/limelight.woff) format('woff');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -30,7 +30,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: swap;
-	src: url(https://jbenedict.com/medea/assets/font/recursive.woff) format('woff');
+	src: url(https://jbenedict.com/playpitch/medea/assets/font/recursive.woff) format('woff');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -58,7 +58,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/medea.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/medea.png");
   min-height: 100%;
 }
 
@@ -69,7 +69,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/chorus1.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/chorus1.png");
   background-position: bottom;
   min-height: 700px;
 }	
@@ -81,7 +81,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/chorus1.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/chorus1.png");
   background-position: bottom;
   min-height: 700px;
 }
@@ -93,7 +93,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/chorus2.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/chorus2.png");
   background-position: bottom;
   min-height: 600px;
 }
@@ -104,7 +104,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/chorus3.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/chorus3.png");
   background-position: bottom;
   min-height: 600px;
 }
@@ -116,7 +116,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/costumes1.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/costumes1.png");
   background-position: bottom;
   min-height: 700px;
 }
@@ -128,7 +128,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/costumes2-1.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/costumes2-1.png");
   background-size: 120%;
   background-position: bottom;
   min-height: 750px;
@@ -140,7 +140,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/costumes2-2.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/costumes2-2.png");
   background-position: bottom;
   min-height: 750px;
 }
@@ -152,7 +152,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/stage1.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/stage1.png");
   background-position: bottom;
   min-height: 700px;
 }
@@ -164,7 +164,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/stage2.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/stage2.png");
   background-position: bottom;
   min-height: 600px;
 }
@@ -175,7 +175,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/stage3.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/stage3.png");
   background-position: bottom;
   min-height: 600px;
 }
@@ -187,7 +187,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/masks1.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/masks1.png");
   min-height: 700px;
 }
 
@@ -198,7 +198,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/masks2.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/masks2.png");
   background-position: bottom;
   min-height: 700px;
 }
@@ -209,7 +209,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://jbenedict.com/medea/assets/img/masks3.png");
+  background-image: url("https://jbenedict.com/playpitch/medea/assets/img/masks3.png");
   background-position: bottom;
   min-height: 700px;
 }
