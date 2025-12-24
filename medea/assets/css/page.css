@@ -1,0 +1,308 @@
+@font-face {
+	font-family: 'azonix';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(https://jbenedict.com/medea/assets/font/azonix.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'valorax';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(https://jbenedict.com/medea/assets/font/valorax.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'limelight';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(https://jbenedict.com/medea/assets/font/limelight.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'recursive';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(https://jbenedict.com/medea/assets/font/recursive.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'Sofia Pro Black';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(https://jbenedict.com/assets/font/SofiaProBlack.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+	
+	
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.titleimage {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/medea.png");
+  min-height: 100%;
+}
+
+.endimage {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/chorus1.png");
+  background-position: bottom;
+  min-height: 700px;
+}	
+
+.chorus1 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/chorus1.png");
+  background-position: bottom;
+  min-height: 700px;
+}
+
+.chorus2 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/chorus2.png");
+  background-position: bottom;
+  min-height: 600px;
+}
+.chorus3 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/chorus3.png");
+  background-position: bottom;
+  min-height: 600px;
+}
+
+.costumes1 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/costumes1.png");
+  background-position: bottom;
+  min-height: 700px;
+}
+
+.costumes2-1 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/costumes2-1.png");
+  background-size: 120%;
+  background-position: bottom;
+  min-height: 750px;
+}
+.costumes2-2 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/costumes2-2.png");
+  background-position: bottom;
+  min-height: 750px;
+}
+
+.stage1 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/stage1.png");
+  background-position: bottom;
+  min-height: 700px;
+}
+
+.stage2 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/stage2.png");
+  background-position: bottom;
+  min-height: 600px;
+}
+.stage3 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/stage3.png");
+  background-position: bottom;
+  min-height: 600px;
+}
+
+.masks1 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/masks1.png");
+  min-height: 700px;
+}
+
+.masks2 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/masks2.png");
+  background-position: bottom;
+  min-height: 700px;
+}
+.masks3 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://jbenedict.com/medea/assets/img/masks3.png");
+  background-position: bottom;
+  min-height: 700px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-family: azonix;
+}
+
+.caption span.border {
+  background-color:rgba(0, 0, 0, 0.7);
+  color: aqua;
+  padding: 20px;
+  padding-top: 25px;
+  font-size: 35px;
+  letter-spacing: 10px;
+  border-radius: 50px;
+  border: 5px solid black;
+}
+
+.body {
+  font-family: recursive;
+  background-color:#282E34;
+  text-align:center;
+  padding:50px 80px;
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: justify;
+}
+
+.heading {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+   text-align:center;
+}
+	
+	
+	
+	
+	
+@keyframes flickerAnimation {
+  0%   { opacity:1; }
+  25%  { opacity:0.45; }
+  37%  { opacity:0.63; }
+  42%  { opacity:1; }
+  50%  { opacity:0; }
+  65%  { opacity:1; }
+  76%  { opacity:0.33; }
+  92%  { opacity:0.62; }
+  100% { opacity:1; }
+}
+@-o-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  25%  { opacity:0.45; }
+  37%  { opacity:0.63; }
+  42%  { opacity:1; }
+  50%  { opacity:0; }
+  65%  { opacity:1; }
+  76%  { opacity:0.33; }
+  92%  { opacity:0.62; }
+  100% { opacity:1; }
+}
+@-moz-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  25%  { opacity:0.45; }
+  37%  { opacity:0.63; }
+  42%  { opacity:1; }
+  50%  { opacity:0; }
+  65%  { opacity:1; }
+  76%  { opacity:0.33; }
+  92%  { opacity:0.62; }
+  100% { opacity:1; }
+}
+@-webkit-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  25%  { opacity:0.45; }
+  37%  { opacity:0.63; }
+  42%  { opacity:1; }
+  50%  { opacity:0; }
+  65%  { opacity:1; }
+  76%  { opacity:0.33; }
+  92%  { opacity:0.62; }
+  100% { opacity:1; }
+}
+.animate-flicker1 {
+   -webkit-animation: flickerAnimation 1s infinite;
+   -moz-animation: flickerAnimation 1s infinite;
+   -o-animation: flickerAnimation 1s infinite;
+    animation: flickerAnimation 1s infinite;
+}
